@@ -4,7 +4,7 @@ version: 1.0.0
 
 Better-Array-Methods is library for better already created Methdos for JavaScripts Arrays
 
-Methods:
+<b>Methods:</b>
     arr.Sum() === all array elements are summed up. (don't works with matrix) (attribute: is array Sum number aliquot on attribute number: true/false)
     arr.Diff() === all array elements are difference up. (don't works with matrix) (attribute: is array Diff number aliquot on attribute number: true/false)
     arr.Modify() === all array elements are Modify up. (don't works with matrix) (attribute: is array Modify number aliquot on attribute number: true/false)
